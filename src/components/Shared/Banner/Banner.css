@@ -1,0 +1,38 @@
+.divission-header{
+         height: 40px;
+         width: 2px;
+         background-color: red;
+         
+         margin-top: -3px;
+}
+.header-left-text{
+    margin-left: -10px;
+}
+.Header-title{
+    font-size: 70px;
+}
+.header-btn{
+    background-color: black;
+    color: white;
+    padding: 10px 30px;
+    border: none;
+    font-size: 20px;
+    
+}
+.header-btn:hover{
+    background-color: goldenrod;
+    color: black;
+}
+.banner-section{
+    background-color: rgba(175, 246, 224, 0.288);
+}
+.button-quantity{
+    border: none;
+    padding: 5px 20px;
+    font-size: 25px;
+    border-radius: 50%;
+
+}
+.button-quantity:hover{
+    background-color: wheat;
+}

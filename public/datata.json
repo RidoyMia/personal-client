@@ -1,0 +1,38 @@
+
+
+
+[
+    {
+        "id" : "1",
+        "category" : "Bottle"
+    },
+    {
+        "id" : "2",
+        "category" : "Shoes"
+    },
+    {
+        "id" : "3",
+        "category" : "Trawser"
+    },
+    {
+        "id" : "4",
+        "category" : "Boot"
+    },
+    {
+        "id" : "5",
+        "category" : "T-shirt"
+    },
+    {
+        "id" : "6",
+        "category" : "Bag"
+    },
+    {
+        "id" : "7",
+        "category" : "Cap"
+    },
+    {
+        "id" : "8",
+        "category" : "Earphones"
+    }
+    
+]

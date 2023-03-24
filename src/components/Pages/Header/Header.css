@@ -1,0 +1,11 @@
+.link{
+    text-decoration: none;
+   margin: 0px 7px;
+   font-size: large;
+   color : rgb(12, 123, 8);
+  
+}
+.Cart-btn{
+    border: none;
+    background-color: white;
+}
